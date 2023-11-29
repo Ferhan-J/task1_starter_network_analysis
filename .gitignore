@@ -1,6 +1,9 @@
 ##########################
 # KEDRO PROJECT
 
+# new ignored file
+anonymized/
+
 # ignore all local configuration
 conf/local/**
 !conf/local/.gitkeep
